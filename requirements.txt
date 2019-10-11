@@ -1,0 +1,4 @@
+Click==7.0
+awacs==0.9.6
+boto3==1.9.237
+troposphere==2.5.1
