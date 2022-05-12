@@ -28,7 +28,7 @@ test_requirements = requirements_dev
 
 setup(
     author='Nickolas Kraus',
-    author_email='NickHKraus@gmail.com',
+    author_email='0x@nickolaskraus.io',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
