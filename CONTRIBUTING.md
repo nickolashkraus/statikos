@@ -8,7 +8,7 @@ You can contribute in many ways:
 
 ### Report Bugs
 
-Report bugs at <https://github.com/NickolasHKraus/statikos/issues>.
+Report bugs at <https://github.com/nickolashkraus/statikos/issues>.
 
 If you are reporting a bug, please include:
 
@@ -30,7 +30,7 @@ Statikos could always use more documentation, whether as part of the official St
 
 ### Submit Feedback
 
-The best way to send feedback is to file an issue at <https://github.com/NickolasHKraus/statikos/issues>.
+The best way to send feedback is to file an issue at <https://github.com/nickolashkraus/statikos/issues>.
 
 If you are proposing a feature:
 
@@ -42,7 +42,7 @@ If you are proposing a feature:
 
 Ready to contribute? Here's how to set up `statikos` for local development.
 
-1. Fork the [`statikos`](https://github.com/NickolasHKraus/statikos) repository on GitHub.
+1. Fork the [`statikos`](https://github.com/nickolashkraus/statikos) repository on GitHub.
 
 2. Clone your fork locally:
 
@@ -84,7 +84,7 @@ git commit -m "Your detailed description of your changes."
 git push origin <branch>
 ```
 
-8. Submit a [pull request](https://github.com/NickolasHKraus/statikos/pulls) through the GitHub website.
+8. Submit a [pull request](https://github.com/nickolashkraus/statikos/pulls) through the GitHub website.
 
 ## Pull Request Guidelines
 

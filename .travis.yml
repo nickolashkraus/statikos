@@ -21,10 +21,10 @@ after_success: codecov
 deploy:
   provider: pypi
   distributions: sdist bdist_wheel
-  user: NickolasHKraus
+  user: nickolashkraus
   password:
     secure: C3PvgsbajBQAJuZ8TC/KBVj075dM4rK8OfbjCPTC6omD+a0p5luc6HdqnI70gtUMDv8uiAywrddonylUWdkuyobrD5/PeEEAFF1QXvBRe1BLEUSEncQMDHUTxElqMEzGNOxE0UV2GVXEqT9koFNGPJu869ODYAx5wwxgW7i/J43REil83FQs9sae2lUwVaeuxRT6r7NTyJpx/79AATWgI/KEZdGBCtY7ODloC3kP+umzv/3PZPq0LePCQmTUvBWivEt2hgp4f5U+dgZDCUHZve9BIFNHZSDtrtfWGCzQoUvh3zQ59fs/GwphRhS2vm/ZsFbxXvI7wqRDPPkkLvHEfxwcZ6po34oYY+SOdNb5iijqZvq+C3muGMbDFHX06ylkbMeJY9cCUPO3vadC4wHW5giSHTz1lU78w1NelaJy67TLE2sQahJKnQSDFKFYkxX6bj0hfYavVJA3nHemh9x+VpuFGNaYNL+28sA4uCRuWeeWs5ezttld9deVJSJOt2KqrwExLbNTnu5TMVjzcEHLM9ES0EFc2lCO5fd28P+ojMcU5JglVCLYXNn1LIFevUtwptw44r/0O5kV2D2282qCsv6ZgJk+gFoj9/5l8nyfaUqWDhK+ABu1SRKWnAvFeDrD83kdl+CpWyIXvjD4vrUcZmLJR65xgLPvQhXsNrYStgI=
   on:
     tags: true
-    repo: NickolasHKraus/statikos
+    repo: nickolashkraus/statikos
     python: 3.7
