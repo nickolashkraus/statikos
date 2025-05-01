@@ -9,7 +9,7 @@ pip==21.1
 pydocstyle==4.0.1
 tox==3.5.2
 twine==1.12.1
-wheel==0.32.1
+wheel==0.38.1
 yapf==0.28.0
 
 -r requirements.txt
