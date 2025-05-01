@@ -1,8 +1,8 @@
 # Statikos
 
-⚠️**Warning**: This repository is deprecated. Generating static websites can be accomplished using Terraform. See [infrable-io/terraform-aws-static-website](https://github.com/infrable-io/terraform-aws-static-website).
+⚠️**WARNING**: This repository is deprecated. DNS validation can be accomplished using Terraform.
+See [infrable-io/terraform-aws-static-website](https://github.com/infrable-io/terraform-aws-static-website).
 
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nickolashkraus/statikos/blob/master/LICENSE)
 ![Status](https://img.shields.io/static/v1?label=Status&message=Deprecated&color=blueviolet)
 
 > στατικός: from ἵστημι (hístēmi, “to stand”) +‎ -ικός (-ikós).
